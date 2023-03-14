@@ -16,7 +16,7 @@ Bash Script to extract s3 buckets from JS files of the target and check their pe
 2. Check if you have the [required tools](https://github.com/utkarsh24122/s3extractor/blob/main/Required_tools.md) installed
 3. Run:
 ```
-git clone https://github.com/utkarsh24122/s3extractor ; cd s3extractor
+git clone https://github.com/AnonymousJass/s3extractor.git ; cd s3extractor
 chmod +x s3extract.sh
 ```
 
